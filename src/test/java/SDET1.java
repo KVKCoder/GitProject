@@ -7,6 +7,9 @@ public class SDET1 {
 		System.out.println("This is SDET1 Test case");
 	
 	//New Line added FOR TESTING by SDET1
+	
+	System.out.println("Second Time commit by SDET1");
+	
 	}
 
 }
